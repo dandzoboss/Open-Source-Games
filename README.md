@@ -1,6 +1,6 @@
 # Foxed's Open Source Roblox Games
 
-[![guns.lol/foxed](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/playboi-carti.jpg?w=420&h=240&crop=1&quality=85)[https://guns.lol/foxed]
+[![Watch on YouTube](https://i.pinimg.com/736x/f9/c2/bb/f9c2bbefbdbd3bdb309cd0756a9ddbd4.jpg)](https://guns.lol/foxed)
 
 Welcome to the collection of open source Roblox games created and shared by **Foxed**.  
 Feel free to explore, learn, and build on these experiences!
