@@ -1,6 +1,6 @@
 # Open-Source-Games
 
-![Foxed's Open Sources]([(https://i.pinimg.com/originals/2d/82/d9/2d82d901304ed14d0ea5d44c6d12dbac.gif)])
+![Foxed Games](https://i.pinimg.com/originals/2d/82/d9/2d82d901304ed14d0ea5d44c6d12dbac.gif)
 
 Welcome to the collection of open source Roblox games created and shared by **Foxed**.  
 Feel free to explore, learn, and build on these experiences!
