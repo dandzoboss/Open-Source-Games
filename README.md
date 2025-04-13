@@ -9,9 +9,7 @@ Feel free to explore, learn, and build on these experiences!
 
 | Game Name | Description | Link |
 |----------|-------------|------|
-| **Tower Battle Redux** | A modern take on tower defense with clean UI and scripting practices. | [Play / Source](https://github.com/yourname/tower-battle-redux) |
-| **Speed Racer X** | High-speed racing game with checkpoint logic and custom vehicle physics. | [Play / Source](https://github.com/yourname/speed-racer-x) |
-| **Haunted Hideout** | Multiplayer horror game with AI and scripted events. | [Play / Source](https://github.com/yourname/haunted-hideout) |
+| **BasketBall Zero** | A Basketball Game with Styles and Zones, based on Kuroko's Basketball | [Source](https://github.com/yourname/tower-battle-redux) |
 
 > 📁 Each game has its own GitHub repo with full source code.
 
