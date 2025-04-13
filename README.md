@@ -9,7 +9,7 @@ Feel free to explore, learn, and build on these experiences!
 
 | Game Name | Description | Link |
 |----------|-------------|------|
-| **BasketBall Zero** | A Basketball Game with Styles and Zones, based on Kuroko's Basketball | [Source](https://github.com/dandzoboss/Open-Source-Games/blob/main/Basketball%20Zero.rbxl) |
+| **BasketBall Zero** | A Basketball Game with Styles and Zones, based on Kuroko's Basketball | [Source](https://github.com/dandzoboss/Open-Source-Games/tree/main/Basketball%20Zero) |
 
 > 📁 Each game has its own GitHub repo with full source code.
 
