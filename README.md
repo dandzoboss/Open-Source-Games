@@ -1,6 +1,6 @@
 # Foxed's Open Source Roblox Games
 
-![OPEN SOURCE](https://i.imgur.com/9qJRCRT.gif)
+![OPEN SOURCE](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/playboi-carti.jpg?w=420&h=240&crop=1&quality=85)
 
 Welcome to the collection of open source Roblox games created and shared by **Foxed**.  
 Feel free to explore, learn, and build on these experiences!
